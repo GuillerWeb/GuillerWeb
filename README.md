@@ -19,6 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
 </div>
 
 ###
@@ -38,8 +40,8 @@
   <tr>
     <td>
       <img
-        align="left"
-        src=![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuillerWeb&theme=dark&layout=compact)
+         align="left"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuillerWeb&theme=dark&layout=compact"
         alt="Github Stats"
       />
     </td>
