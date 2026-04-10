@@ -39,7 +39,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillerWeb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src=![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuillerWeb&theme=dark&layout=compact)
         alt="Github Stats"
       />
     </td>
