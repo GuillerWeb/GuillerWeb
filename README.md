@@ -35,14 +35,4 @@
 
 ###
 
-<table>
-  <tr>
-    <td>
-      <img
-         align="left"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuillerWeb&theme=dark&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+
